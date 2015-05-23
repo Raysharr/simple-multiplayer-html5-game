@@ -1,0 +1,16 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+}
+
+.widget {
+	padding: 20px;
+	text-align: center;
+}
